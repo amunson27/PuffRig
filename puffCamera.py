@@ -295,4 +295,5 @@ class masterStream:
 
 if __name__ == "__main__":
     master = masterStream()
+    print(master)
 
